@@ -5484,6 +5484,7 @@ upload.wikimedia.org:443
 .googleapis.com
 .g.doubleclick.net
 .adsense.com
+.gmail.com
 #-- separator --#
 {+forward-override{$default-forward-settings$}}
 .www.exblog.jp
@@ -5588,7 +5589,21 @@ upload.wikimedia.org:443
 .baidu.com
 .duckduckgo.com
 .jike.com
+.panguso.com
+.qq.com
+.sina.cn
+.sina.com.cn
+.sogou.com
+.so.com
+.soso.com
+.yahoo.cn
+.youdao.com
+.zhongsou.com
 autoproxy.org:443
 ime.baidu.jp:80
-.gmail.com
-.google.com
+.xunlei.com
+.weibo.com
+.renren.com
+.youku.com
+.163.com
+.taobao.com
