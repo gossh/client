@@ -5487,6 +5487,9 @@ upload.wikimedia.org:443
 .gmail.com
 .google.com
 .91porn.com
+.goo.gl
+.tommy.com
+
 #-- separator --#
 {+forward-override{$default-forward-settings$}}
 .www.exblog.jp
